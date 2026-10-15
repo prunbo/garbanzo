@@ -1,0 +1,28 @@
+{
+  "bar": {
+    "height": 40,
+    "position": "top",
+    "modules": ["workspaces", "windowtitle", "clock", "tray", "battery", "network", "bluetooth", "audio", "notifications"]
+  },
+  "dock": {
+    "position": "bottom",
+    "iconSize": 48,
+    "pinned": ["firefox", "thunar", "kitty", "code", "spotify"]
+  },
+  "launcher": {
+    "columns": 5
+  },
+  "theme": {
+    "accent": "#ff6b00",
+    "accent2": "#ffb300",
+    "bg": "#0d0d12",
+    "bgAlt": "#16161d",
+    "surface": "#1e1e28",
+    "text": "#f5f5f5",
+    "muted": "#8a8a9a",
+    "danger": "#ff3b3b"
+  },
+  "wallpaper": {
+    "directory": "~/Pictures/Wallpapers"
+  }
+}
